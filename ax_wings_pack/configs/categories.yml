@@ -1,0 +1,21 @@
+info:
+  namespace: ax_wings_pack
+categories:
+  ax_wings_pack:
+    enabled: true
+    name: "&fWings Pack - ArtillexStudios"
+    title: ""
+    icon: ax_wings_pack:angel_wings
+    items:
+      - ax_wings_pack:angel_wings
+      - ax_wings_pack:astronaut_wings
+      - ax_wings_pack:bluefire_wings
+      - ax_wings_pack:brown_wings
+      - ax_wings_pack:butterfly_wings
+      - ax_wings_pack:demon_wings
+      - ax_wings_pack:dragon_wings
+      - ax_wings_pack:eagle_wings
+      - ax_wings_pack:golden_wings
+      - ax_wings_pack:ocean_wings
+      - ax_wings_pack:purple_wings
+      - ax_wings_pack:phenix_wings

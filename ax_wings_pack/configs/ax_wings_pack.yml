@@ -1,0 +1,87 @@
+info:
+  namespace: ax_wings_pack
+items:
+  angel_wings:
+    display_name: Angel Wings
+    resource:
+      material: PAPER
+      model_id: 9000
+      generate: false
+      model_path: angel_wings
+  astronaut_wings:
+    display_name: Astronaut Wings
+    resource:
+      material: PAPER
+      model_id: 9001
+      generate: false
+      model_path: astronaut_wings
+  bluefire_wings:
+    display_name: BlueFire Wings
+    resource:
+      material: PAPER
+      model_id: 9002
+      generate: false
+      model_path: bluefire_wings
+  brown_wings:
+    display_name: Brown Wings
+    resource:
+      material: PAPER
+      model_id: 9003
+      generate: false
+      model_path: brown_wings
+  butterfly_wings:
+    display_name: Butterfly Wings
+    resource:
+      material: PAPER
+      model_id: 9004
+      generate: false
+      model_path: butterfly_wings
+  demon_wings:
+    display_name: Demon Wings
+    resource:
+      material: PAPER
+      model_id: 9005
+      generate: false
+      model_path: demon_wings
+  dragon_wings:
+    display_name: Dragon Wings
+    resource:
+      material: PAPER
+      model_id: 9006
+      generate: false
+      model_path: dragon_wings
+  eagle_wings:
+    display_name: Eagle Wings
+    resource:
+      material: PAPER
+      model_id: 9007
+      generate: false
+      model_path: eagle_wings
+  golden_wings:
+    display_name: Golden Wings
+    resource:
+      material: PAPER
+      model_id: 9008
+      generate: false
+      model_path: golden_wings
+  ocean_wings:
+    display_name: Ocean Wings
+    resource:
+      material: PAPER
+      model_id: 9009
+      generate: false
+      model_path: ocean_wings
+  purple_wings:
+    display_name: Purple Wings
+    resource:
+      material: PAPER
+      model_id: 9010
+      generate: false
+      model_path: purple_wings
+  phoenix_wings:
+    display_name: Phoenix Wings
+    resource:
+      material: PAPER
+      model_id: 9011
+      generate: false
+      model_path: phoenix_wings
